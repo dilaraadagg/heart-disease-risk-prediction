@@ -1,0 +1,24 @@
+{
+  "best_model": "Gradient Boosting",
+  "n_rows": 319795,
+  "positive_rate": 0.08559545959130067,
+  "test_size": 63959,
+  "threshold_default": 0.5,
+  "metrics_default": {
+    "accuracy": 0.7347,
+    "precision": 0.2167,
+    "recall": 0.8027,
+    "f1": 0.3413,
+    "roc_auc": 0.84,
+    "pr_auc": 0.3482
+  },
+  "threshold_screening": 0.5037,
+  "metrics_screening": {
+    "accuracy": 0.7367,
+    "precision": 0.2176,
+    "recall": 0.8,
+    "f1": 0.3422,
+    "roc_auc": 0.84,
+    "pr_auc": 0.3482
+  }
+}
